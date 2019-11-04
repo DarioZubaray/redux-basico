@@ -2,11 +2,12 @@
   "name": "redux-basico",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.tjs",
   "scripts": {
-    "start": ".\\node_modules\\.bin\\ts-node app"
+    "start": ".\\node_modules\\.bin\\ts-node app",
+    "app2": ".\\node_modules\\.bin\\ts-node app2"
   },
-  "author": "",
+  "author": "Darío José Zubaray",
   "license": "ISC",
   "devDependencies": {
     "ts-node": "^8.4.1",
