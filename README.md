@@ -2,7 +2,7 @@
 
 - Documentación
 
-(Link inglés)[https://redux.js.org/]
+[Link inglés](https://redux.js.org/)
 
 - Ejecución:
 ```
